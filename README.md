@@ -1,4 +1,5 @@
-# TravelMatrix
+# TravelMatrix 
+
 ![hero-travel](https://github.com/user-attachments/assets/796d2018-da20-4845-afa5-62ac2e53a4ea)
 
 The TravelMatrix™ software solution is a robust travel technology platform that offers an end-to-end solution to greatly optimize product and service optimization, sales, conversions, and distribution.
@@ -21,3 +22,8 @@ Through Content Normalization, rich content is assiduously mapped from several s
 
 ### Globalization & Multi-distribution
 Utilizing a single, unified platform, our travel technology platform allows you to globalize your travel business across many company divisions, brands, distribution channels, source markets, destinations, client groups, currencies, and multilingual content. Increase revenue dramatically over time while optimizing reach and market penetration.
+
+This repository was created to explore the features of the TravelMatrix system. For more information, please contact us at info@imatrixlabs.com.
+
+Thanks & Regards,
+IMATRIXLABS (PVT) LTD.
